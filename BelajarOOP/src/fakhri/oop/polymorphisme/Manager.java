@@ -1,4 +1,4 @@
-package polymorphisme;
+package fakhri.oop.polymorphisme;
 
 public class Manager extends Employee{
     public Manager(String name) {

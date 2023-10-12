@@ -1,4 +1,4 @@
-package encapsulation;
+package fakhri.oop.encapsulation;
 
 public class PraktikumSatu {
     public static void main(String[] args) {

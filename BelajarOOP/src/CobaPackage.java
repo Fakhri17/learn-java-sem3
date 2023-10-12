@@ -1,7 +1,7 @@
 
-import polymorphisme.Employee;
-import polymorphisme.Manager;
-import polymorphisme.VicePresident;
+import fakhri.oop.polymorphisme.Employee;
+import fakhri.oop.polymorphisme.Manager;
+import fakhri.oop.polymorphisme.VicePresident;
 public class CobaPackage {
     public static void main(String[] args) {
         Employee e = new Employee("Fakhri");

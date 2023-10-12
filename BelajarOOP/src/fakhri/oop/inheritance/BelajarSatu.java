@@ -1,4 +1,4 @@
-package inheritance;
+package fakhri.oop.inheritance;
 
 class Mahasiswa{
     String name;

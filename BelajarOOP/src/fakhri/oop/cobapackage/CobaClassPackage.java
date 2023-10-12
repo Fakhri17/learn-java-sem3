@@ -1,4 +1,4 @@
-package cobapackage;
+package fakhri.oop.cobapackage;
 
 public class CobaClassPackage {
     public String nama;

@@ -1,4 +1,4 @@
-package encapsulation;
+package fakhri.oop.encapsulation;
 
 public class User {
     private String email;

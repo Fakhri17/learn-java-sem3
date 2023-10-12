@@ -1,4 +1,4 @@
-import cobapackage.CobaClassPackage;
+import fakhri.oop.cobapackage.CobaClassPackage;
 
 class KeywordModifier{
     private String email;

@@ -1,4 +1,4 @@
-package polymorphisme;
+package fakhri.oop.polymorphisme;
 
 public class Employee {
     String name;

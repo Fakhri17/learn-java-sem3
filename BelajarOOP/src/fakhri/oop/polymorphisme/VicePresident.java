@@ -1,4 +1,4 @@
-package polymorphisme;
+package fakhri.oop.polymorphisme;
 
 public class VicePresident extends Manager{
     public VicePresident(String name) {
