@@ -13,6 +13,7 @@ public class MainAnimal {
         System.out.println("Gender: " + duck.gender);
         // Downcasting
         Duck duck1 = (Duck) duck;
+        System.out.println("Beak Color: " + duck1.beakColor);
         duck1.swim();
         // overloading dengan 1 parameter
         duck1.swim(10);
@@ -26,6 +27,8 @@ public class MainAnimal {
         System.out.println("Gender: " + fish.gender);
         // Downcasting
         Fish fish1 = (Fish) fish;
+        System.out.println("Size in Ft: " + fish1.sizeInFt);
+        System.out.println("Can Eat: " + fish1.canEat);
         fish1.swim();
         // overloading dengan 2 parameter
         fish1.swim(20, "Ikan Cupang");
@@ -38,6 +41,7 @@ public class MainAnimal {
         System.out.println("Gender: " + zebra.gender);
         // Downcasting
         Zebra zebra1 = (Zebra) zebra;
+        System.out.println("Is Wild: " + zebra1.is_wild);
         zebra1.run();
         // overloading dengan 2 parameter
         zebra1.run(30, true);
