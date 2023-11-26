@@ -12,12 +12,8 @@ public class Hitung implements Operasi{
         System.out.println("Keliling Lingkaran = " + lingkaran + kons_panjang);
     }
 
-    @Override
-    public void kelilingPersegi() {
-        System.out.println("\nMenghitung Keliling Persegi");
-        System.out.println("Nilai sisi = " + sisi + kons_panjang);
-        persegi = 4 * sisi;
-        System.out.println("Keliling Persegi = " + persegi + kons_panjang);
-    }
+//    @Override
+//    public void kelilingPersegi() {
+//    }
 
 }

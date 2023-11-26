@@ -7,11 +7,11 @@ public class MainInter {
         Operasi operasi = new Hitung();
 
         hitung.kelilingLingkaran(7);
-        hitung.kelilingPersegi();
+//        hitung.kelilingPersegi();
 
-        System.out.println();
+        System.out.println("\nAkses langsung dari objek operasi");
 
         operasi.kelilingLingkaran(21);
-        operasi.kelilingPersegi();
+//        operasi.kelilingPersegi();
     }
 }
